@@ -1,7 +1,7 @@
 package pays;
 
 public class Capital extends Ville {
-
+    //la capitale de la Malaisie est Kuala Lumpur. Oui.
 
     // DECLARATION DES ATTRIBUTS
     private String pays;

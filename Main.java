@@ -23,7 +23,8 @@ public class Main {
 
         System.out.println("Veuillez Saisir le pays si cette ville est une capital" + "\n" + "sinon taper N : ");
         pays = saisi.next();
-
+	    
+//François est très a l'aise avec les scanners
 
         Capital test = new Capital(nville,nhabitant,pays);
         test.afficher();
